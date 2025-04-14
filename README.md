@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RichardSabah
-- 👀 I’m interested in AI Prompt Engineering
+- 👀 I’m interested in AI Prompt Engineering, Obsidian
 - 🌱 I’m currently learning Enterprise Inteligence
 - 💞️ I’m looking to collaborate on AI Strategies
 - 📫 How to reach me richard.sabah@gmail.com
